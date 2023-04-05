@@ -15,7 +15,6 @@
   text-align: center;
 }
 
-
 .rule-three__img-box:not(:last-child, .rule-three__img-box--margin) {
   margin-bottom: 30px
   

@@ -1,0 +1,30 @@
+.result {
+  padding: 25px 0px;
+}
+
+.result__title {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 52px;
+  margin-bottom: 20px;
+}
+
+.result__list{
+  margin-bottom: 30px;
+}
+
+.result__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.result__item {
+  position: relative;
+  padding-left: 21px;
+}
+
+.result__item::before {
+  content: "\2014";
+  position: absolute;
+  top: 0;
+  left: 0;
+}
