@@ -1,19 +1,10 @@
-@import url(../css/normalize.css);
-
 @import url(../css/fonts.css);
-
+@import url(../css/normalize.css);
 @import url(../css/global.css);
-
 @import url(../css/article.css);
-
 @import url(../css/intro.css);
-
 @import url(../css/nav.css);
-
 @import url(../css/rule-one.css);
-
 @import url(../css/rule-two.css);
-
 @import url(../css/rule-three.css);
-
 @import url(../css/result.css);
