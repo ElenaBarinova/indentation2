@@ -1,5 +1,5 @@
 .intro {
-  padding: 25px 0px 50px;
+  padding-bottom: 25px;
 }
 
 .intro__title {
@@ -9,6 +9,6 @@
   margin-bottom: 30px;
 }
 
-.intro__text:not(:last-child) {
+.text:not(:last-child) {
   margin-bottom: 30px;
 }
