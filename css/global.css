@@ -106,5 +106,14 @@ section {
 
 article {
   padding: 60px 0 50px;
+}
 
+.container-padding {
+  padding: 0 150px;
+}
+
+.wrapper {
+  background-color: #F1F1F1;
+  padding: 25px 45px 27px;
+  border-radius: 10px;
 }

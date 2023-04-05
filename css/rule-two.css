@@ -1,0 +1,43 @@
+.rule-two__title {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 43px;
+  margin-bottom: 30px;
+}
+
+.rule-two__text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.rule-two__img-box {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.rule-two__figure {
+  border: solid 1px;
+  margin-bottom: 30px;
+
+}
+
+.rule-two__img {
+  margin-bottom: 15px;
+
+}
+
+.span {
+  font-style: italic;
+}
+
+.rule-two__figcaption {
+  padding-left: 30px;
+  color: #5E5E5E;
+  margin-bottom: 15px;
+}
+
+
+
+
+
